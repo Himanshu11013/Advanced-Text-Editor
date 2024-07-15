@@ -49,7 +49,8 @@ You'll be prompted to enter the word you want to delete.
 Exit and Encode/Decode Text:
 
 Enter 4 to exit the program.
-The program will display the current sentence formed from the words stored in the AVL tree.
+
+*. The program will display the current sentence formed from the words stored in the AVL tree.
 It will then proceed to encode and decode the sentence using Huffman coding.
 Details such as original size, encoded size, and compression ratio will be shown.
 Encoded data will be saved to encode.txt, and decoded data will be saved to decode.txt.
