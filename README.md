@@ -62,6 +62,6 @@ encode.txt: This file contains the Huffman encoded string.
 decode.txt: This file contains the Huffman decoded string.
 
 ### Acknowledgements
-AVL Tree Implementation and Balancing Logic: Efficiently managing and balancing words in the text editor using AVL trees.
-Huffman Coding Implementation for Text Compression: Encoding and decoding text using Huffman coding for effective compression.
-Spell Checker with Edit Distance Tolerance: Implementing spell checking functionality with tolerance for edit distance to suggest similar words.
+1. AVL Tree Implementation and Balancing Logic: Efficiently managing and balancing words in the text editor using AVL trees.
+2. Huffman Coding Implementation for Text Compression: Encoding and decoding text using Huffman coding for effective compression.
+3. Spell Checker with Edit Distance Tolerance: Implementing spell checking functionality with tolerance for edit distance to suggest similar words.
